@@ -1,4 +1,4 @@
-# Contact Management System
+# Customer Management System
 
 ## Project Overview
 
